@@ -7,9 +7,11 @@ This clock is design for Fitbit Sense and Versa 3 so other versions are not comp
 
 ### Features In Work
 
--- Dark Mode Setting: option to change animation to a black background for dark mode users
--- Heart Rate, Steps, Calories on main display: toggle to cycle through (or turn off) by tapping on the counter on the main face
--- Always On: Fades into a white outline of Nyan Cat and the stars along with the Time and Date on a black background
+Dark Mode Setting: option to change animation to a black background for dark mode users
+
+Heart Rate, Steps, Calories on main display: toggle to cycle through (or turn off) by tapping on the counter on the main face
+
+Always On: Fades into a white outline of Nyan Cat and the stars along with the Time and Date on a black background
 
 ### Disclaimer
 
