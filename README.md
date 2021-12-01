@@ -1,5 +1,6 @@
-![me](NyanCat-Clock.gif)
 ### Nyan Cat Clock Overview
+
+![me](NyanCat-Clock.gif)
 
 This Fitbit clock features the classic Nyan Cat animation on a simple clockface design.
 
