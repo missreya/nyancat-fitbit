@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "8ff5069d-b913-4320-ba23-44bc45210ecb",
+    "appType": "clockface",
+    "appDisplayName": "Nyan Cat",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Nyan Cat"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

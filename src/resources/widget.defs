@@ -1,0 +1,14 @@
+<svg>
+  <defs>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="import" href="/mnt/sysassets/system_widget.defs" />
+
+    <symbol id="frames" href="#sprite-image">
+      <animate id="anim" attributeName="value" begin="enable"
+          from="1" to="12" dur="1"
+          repeatDur="1" repeatCount="indefinite" />
+      <image href="nyancat_01.png" width="336" height="336" x="0%" y="0%" />
+    </symbol>
+
+  </defs>
+</svg>

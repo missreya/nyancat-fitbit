@@ -1,0 +1,5 @@
+<svg>
+  <use id="myAnimatedBG" href="#frames" />
+  <text id="myTime" />
+  <text id="myDate" />
+</svg>
