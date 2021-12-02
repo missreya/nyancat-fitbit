@@ -1,5 +1,6 @@
 <svg>
+  <rect id="background" width="100%" height="100%" x="0" y="0" fill="#013368" />
   <use id="myAnimatedBG" href="#frames" />
-  <text id="myTime" />
-  <text id="myDate" />
+  <text id="time" />
+  <text id="date" />
 </svg>

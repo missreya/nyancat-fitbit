@@ -1,8 +1,4 @@
-.background {
-  viewport-fill: black;
-}
-
-#myTime {
+#time {
   font-size: 80;
   font-family: System-Regular;
   text-length: 32;
@@ -12,7 +8,7 @@
   fill: white;
 }
 
-#myDate {
+#date {
   font-size: 32;
   font-family: System-Light;
   text-length: 20;
