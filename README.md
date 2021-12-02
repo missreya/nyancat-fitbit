@@ -19,9 +19,9 @@ This clock is design for Fitbit Sense and Versa 3 so other versions are not comp
 
 ### Credit
 
-I claim no ownership of Nyan Cat and am not associated to Nyan Cat in any shape or fashion. I do not make any money from this. I am simply a lover of Nyan Cat!
+I have no ownership of Nyan Cat and am not associated to Nyan Cat in any shape or fashion. I also do not make any money from this. I am simply a lover of Nyan Cat!
 
-Nyan Cat is copyrighted by the gif's original creator, Chris Torres. Thanks Chris for bring Nyan Cat into our lives! 
+Nyan Cat is copyrighted by the gif's original creator, Chris Torres. Thank you Chris for bringing Nyan Cat into our lives! 
 
 ### Bugs? Contact Me!
 
