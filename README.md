@@ -7,9 +7,10 @@ This Fitbit clock features the classic Nyan Cat animation on a simple clockface 
 This clock is design for Fitbit Sense and Versa 3 so other versions are not compatible. 
 
 ### Features 
+
 - Clock and date display
 - Nyan Cat forever!
-- Dark Mode Setting: option to change to a black background for dark mode inclined users
+- Dark Mode Setting: option to change to a black background for dark mode inclined users (must go to Settings in Fitbit app)
 ### Features In Work
 
 - Goal Counters (Heart Rate, Steps, Calories, Distance) on display on active face with Settings to turn on or off
@@ -25,6 +26,6 @@ Nyan Cat is copyrighted by the gif's original creator, Chris Torres. Thank you C
 
 ### Bugs? Contact Me!
 
-I am humbly a new coder and this is my Fitbit clock design - please let me know if there is something wrong and I will do my best to fix it. 
+I am humbly a new coder and this is my first Fitbit clock design - please let me know if there is something wrong and I will do my best to fix it. 
 
 Thank you for taking interest in my Fitbit clock face and I hope you enjoy it! :)

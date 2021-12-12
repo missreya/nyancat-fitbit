@@ -1,5 +1,5 @@
 <svg>
-  <rect id="background" width="100%" height="100%" x="0" y="0" fill="#013368" />
+  <rect id="background" width="100%" height="100%" x="0" y="0" fill="#000000" /> 
   <use id="myAnimatedBG" href="#frames" />
   <text id="time" />
   <text id="date" />
